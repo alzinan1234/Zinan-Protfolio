@@ -14,21 +14,5 @@
     "description": "This is a project made with complete React js.",
     "demo": "https://restaurant-boos.netlify.app/",
     "source": "https://github.com/alzinan1234/restaurant-boos"
-  },
-  {
-    "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://ibb.co.com/h8xk8YL",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://ibb.co.com/h8xk8YL",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
   }
 ]
