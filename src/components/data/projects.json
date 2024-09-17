@@ -9,11 +9,11 @@
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "skills/banner.png",
+    "title": "Restaurant Boos",
+    "imageSrc": "https://graphicsfamily.com/wp-content/uploads/edd/2023/02/Restaurant-Logo-Design-2-1536x864.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://restaurant-boos.netlify.app/",
+    "source": "https://github.com/alzinan1234/restaurant-boos"
   },
   {
     "key": 3,
